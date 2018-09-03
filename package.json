@@ -1,5 +1,5 @@
 {
-  "name": "copy-directory",
+  "name": "@lindellcarter/copy-directory",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
