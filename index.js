@@ -1,7 +1,7 @@
 'use strict'
 
-const main = () => {
-  console.log('hello world')
+const main = (name) => {
+  console.log('hello world', name, '!')
 }
 
 module.exports = { main }
